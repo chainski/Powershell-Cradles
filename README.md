@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://img.shields.io/github/repo-size/chainski/Powershell-Cradles?style=for-the-badge&color=1c90ce">
    <img src="https://hits.sh/github.com/chainski/Powershell-Cradles.svg?style=for-the-badge&label=views&color=1c90ce">
-   <img src="https://hits.sh/github.com/chainski/Powershell-Cradles.svg?style=for-the-badge&label=views&color=1c90ce">
+   <img src="https://img.shields.io/github/issues/chainski/Powershell-Cradles?style=for-the-badge&color=1c90ce">
 </p>
 
 <div align="center">
